@@ -1,0 +1,10 @@
+C:\Users\evetn\source\repos\SCPDRadioSounds\SCPDRadioSounds\bin\Debug\SCPDRadioSounds.exe.config
+C:\Users\evetn\source\repos\SCPDRadioSounds\SCPDRadioSounds\bin\Debug\SCPDRadioSounds.exe
+C:\Users\evetn\source\repos\SCPDRadioSounds\SCPDRadioSounds\bin\Debug\SCPDRadioSounds.pdb
+C:\Users\evetn\source\repos\SCPDRadioSounds\SCPDRadioSounds\obj\Debug\SCPDRadioSounds.Form1.resources
+C:\Users\evetn\source\repos\SCPDRadioSounds\SCPDRadioSounds\obj\Debug\SCPDRadioSounds.Properties.Resources.resources
+C:\Users\evetn\source\repos\SCPDRadioSounds\SCPDRadioSounds\obj\Debug\SCPDRadioSounds.csproj.GenerateResource.cache
+C:\Users\evetn\source\repos\SCPDRadioSounds\SCPDRadioSounds\obj\Debug\SCPDRadioSounds.csproj.CoreCompileInputs.cache
+C:\Users\evetn\source\repos\SCPDRadioSounds\SCPDRadioSounds\obj\Debug\SCPDRadioSounds.exe
+C:\Users\evetn\source\repos\SCPDRadioSounds\SCPDRadioSounds\obj\Debug\SCPDRadioSounds.pdb
+C:\Users\evetn\source\repos\SCPDRadioSounds\SCPDRadioSounds\obj\Debug\SCPDRadioSounds.csprojResolveAssemblyReference.cache
